@@ -8,7 +8,9 @@
   * [结构体](data-structture/structure.md)
   * [链表与二叉树](data-structture/lian-biao-yu-er-cha-shu.md)
 * [对OOP的多种理解方法](mian-xiang-dui-xiang-bian-cheng/dui-oop-de-duo-zhong-li-jie-fang-fa.md)
+* [XML](xml.md)
 
 ## 补充内容
 
 * [UML](bu-chong-nei-rong/uml.md)
+* [状态转化图](bu-chong-nei-rong/zhuang-tai-zhuan-hua-tu.md)
